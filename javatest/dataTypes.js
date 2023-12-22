@@ -16,4 +16,4 @@
 // object 
 
 console.log(typeof undefined); // undefined
-console.log(typeof null); // null
+console.log(typeof null); // object
